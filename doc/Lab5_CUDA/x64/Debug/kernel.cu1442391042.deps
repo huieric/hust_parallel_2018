@@ -1,0 +1,592 @@
+I:\NVIDIA\GPU Computing Toolkit\CUDA\v9.2\include\cuda_runtime.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\host_config.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\crt/host_config.h
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.14.26428\include\crtdefs.h
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.14.26428\include\vcruntime.h
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.14.26428\include\sal.h
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.14.26428\include\concurrencysal.h
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.14.26428\include\vadefs.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\corecrt.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\builtin_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\device_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\host_defines.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\crt/host_defines.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\driver_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\host_defines.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\crt/host_defines.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\vector_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\host_defines.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\crt/host_defines.h
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.14.26428\include\limits.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stddef.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\surface_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\driver_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\texture_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\driver_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\vector_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\library_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\channel_descriptor.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\driver_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\cuda_runtime_api.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\host_defines.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\crt/host_defines.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\builtin_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\device_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\driver_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\surface_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\texture_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\vector_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\cuda_device_runtime_api.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\driver_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\host_defines.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\crt/host_defines.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\host_defines.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\crt/host_defines.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\vector_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\cuda_runtime_api.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\driver_functions.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\builtin_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\device_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\driver_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\surface_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\texture_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\vector_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\host_defines.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\crt/host_defines.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\driver_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\host_defines.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\crt/host_defines.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\vector_functions.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\builtin_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\device_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\driver_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\surface_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\texture_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\vector_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\host_defines.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\crt/host_defines.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\vector_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\vector_functions.hpp
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\builtin_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\device_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\driver_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\surface_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\texture_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\vector_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\host_defines.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\crt/host_defines.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\vector_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\common_functions.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\crt/common_functions.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\builtin_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\device_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\driver_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\surface_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\texture_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\vector_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\crt\host_defines.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\string.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\corecrt_memory.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\corecrt_memcpy_s.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\errno.h
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.14.26428\include\vcruntime_string.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\corecrt_wstring.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\time.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\corecrt_wtime.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\crt\math_functions.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\builtin_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\device_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\driver_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\surface_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\texture_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\vector_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\crt\host_defines.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\math.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\corecrt_math.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdlib.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\corecrt_malloc.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\corecrt_search.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\corecrt_wstdlib.h
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.14.26428\include\cmath
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.14.26428\include\cstdlib
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.14.26428\include\yvals.h
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.14.26428\include\xkeycheck.h
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.14.26428\include\crtdefs.h
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.14.26428\include\use_ansi.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\math.h
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.14.26428\include\xtgmath.h
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.14.26428\include\xtr1common
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\crt\math_functions.hpp
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\builtin_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\device_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\driver_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\surface_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\texture_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\vector_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\crt\host_defines.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\cuda_surface_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\builtin_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\device_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\driver_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\surface_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\texture_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\vector_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\channel_descriptor.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\driver_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\host_defines.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\crt/host_defines.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\surface_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\cuda_texture_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\builtin_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\device_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\driver_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\surface_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\texture_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\vector_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\channel_descriptor.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\driver_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\host_defines.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\crt/host_defines.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\texture_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\device_functions.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\crt/device_functions.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\builtin_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\device_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\driver_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\surface_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\texture_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\vector_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\device_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\crt\host_defines.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\crt\device_functions.hpp
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\builtin_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\device_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\driver_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\surface_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\texture_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\vector_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\device_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\crt\host_defines.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\device_atomic_functions.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\builtin_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\device_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\driver_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\surface_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\texture_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\vector_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\host_defines.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\crt/host_defines.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\builtin_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\device_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\driver_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\surface_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\texture_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\vector_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\host_defines.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\crt/host_defines.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\crt\device_double_functions.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\builtin_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\device_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\driver_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\surface_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\texture_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\vector_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\device_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\crt\host_defines.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\crt\device_double_functions.hpp
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\builtin_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\device_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\driver_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\surface_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\texture_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\vector_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\device_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\crt\host_defines.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\sm_20_atomic_functions.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\builtin_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\device_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\driver_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\surface_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\texture_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\vector_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\host_defines.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\crt/host_defines.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\sm_32_atomic_functions.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\builtin_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\device_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\driver_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\surface_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\texture_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\vector_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\host_defines.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\crt/host_defines.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\sm_35_atomic_functions.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\sm_32_atomic_functions.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\sm_60_atomic_functions.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\builtin_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\device_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\driver_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\surface_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\texture_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\vector_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\host_defines.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\crt/host_defines.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\sm_20_intrinsics.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\builtin_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\device_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\driver_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\surface_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\texture_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\vector_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\device_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\host_defines.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\crt/host_defines.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\sm_30_intrinsics.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\builtin_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\device_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\driver_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\surface_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\texture_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\vector_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\device_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\host_defines.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\crt/host_defines.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\sm_32_intrinsics.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\builtin_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\device_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\driver_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\surface_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\texture_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\vector_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\device_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\host_defines.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\crt/host_defines.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\sm_35_intrinsics.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\sm_32_intrinsics.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\sm_61_intrinsics.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\builtin_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\device_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\driver_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\surface_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\texture_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\vector_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\device_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\host_defines.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\crt/host_defines.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\crt\sm_70_rt.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\builtin_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\device_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\driver_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\surface_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\texture_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\vector_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\device_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\crt\host_defines.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\surface_functions.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\builtin_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\device_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\driver_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\surface_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\texture_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\vector_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\cuda_surface_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\host_defines.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\crt/host_defines.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\surface_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\texture_fetch_functions.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\builtin_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\device_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\driver_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\surface_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\texture_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\vector_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\cuda_texture_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\host_defines.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\crt/host_defines.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\texture_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\texture_indirect_functions.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\builtin_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\device_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\driver_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\surface_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\texture_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\vector_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\host_defines.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\crt/host_defines.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\surface_indirect_functions.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\builtin_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\device_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\driver_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\surface_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\texture_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\vector_types.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\host_defines.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\crt/host_defines.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\device_launch_parameters.h
+i:\nvidia\gpu computing toolkit\cuda\v9.2\include\vector_types.h
+I:\NVIDIA\GPU Computing Toolkit\CUDA\v9.2\include\cuda_runtime.h
+I:\NVIDIA\GPU Computing Toolkit\CUDA\v9.2\include\cuda.h
+I:\NVIDIA\GPU Computing Toolkit\CUDA\v9.2\include\device_launch_parameters.h
+D:\opencv\build\include\opencv2/opencv.hpp
+D:\opencv\build\include\opencv2/opencv_modules.hpp
+D:\opencv\build\include\opencv2/core.hpp
+D:\opencv\build\include\opencv2/core/cvdef.h
+D:\opencv\build\include\opencv2/core/hal/interface.h
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.14.26428\include\cstddef
+d:\opencv\build\include\opencv2\core\cv_cpu_dispatch.h
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.14.26428\include\intrin.h
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.14.26428\include\intrin0.h
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.14.26428\include\setjmp.h
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.14.26428\include\immintrin.h
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.14.26428\include\wmmintrin.h
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.14.26428\include\nmmintrin.h
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.14.26428\include\smmintrin.h
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.14.26428\include\tmmintrin.h
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.14.26428\include\pmmintrin.h
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.14.26428\include\emmintrin.h
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.14.26428\include\xmmintrin.h
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.14.26428\include\mmintrin.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\malloc.h
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.14.26428\include\zmmintrin.h
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.14.26428\include\ammintrin.h
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.14.26428\include\array
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.14.26428\include\algorithm
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.14.26428\include\xmemory
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.14.26428\include\xmemory0
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.14.26428\include\cstdint
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.14.26428\include\stdint.h
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.14.26428\include\limits
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.14.26428\include\ymath.h
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.14.26428\include\cfloat
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\float.h
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.14.26428\include\climits
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.14.26428\include\cwchar
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\wchar.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\corecrt_wconio.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\corecrt_stdio_config.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\corecrt_wctype.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\corecrt_wdirect.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\corecrt_wio.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\corecrt_share.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\corecrt_wprocess.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\corecrt_wstdio.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\sys/stat.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\sys/types.h
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.14.26428\include\xstddef
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.14.26428\include\initializer_list
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.14.26428\include\new
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.14.26428\include\exception
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.14.26428\include\type_traits
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.14.26428\include\vcruntime_exception.h
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.14.26428\include\eh.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\corecrt_terminate.h
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.14.26428\include\vcruntime_new.h
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.14.26428\include\xutility
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.14.26428\include\utility
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.14.26428\include\iosfwd
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.14.26428\include\cstdio
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.14.26428\include\cstring
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\crtdbg.h
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.14.26428\include\vcruntime_new_debug.h
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.14.26428\include\xatomic0.h
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.14.26428\include\iterator
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.14.26428\include\istream
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.14.26428\include\ostream
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.14.26428\include\ios
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.14.26428\include\xlocnum
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.14.26428\include\streambuf
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.14.26428\include\xiosbase
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.14.26428\include\xlocale
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.14.26428\include\stdexcept
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.14.26428\include\xstring
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.14.26428\include\typeinfo
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.14.26428\include\vcruntime_typeinfo.h
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.14.26428\include\xlocinfo
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.14.26428\include\xlocinfo.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\ctype.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\locale.h
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.14.26428\include\memory
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.14.26428\include\xfacet
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.14.26428\include\system_error
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.14.26428\include\cerrno
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.14.26428\include\xcall_once.h
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.14.26428\include\xerrc.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\share.h
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.14.26428\include\tuple
+D:\opencv\build\include\opencv2/core/version.hpp
+D:\opencv\build\include\opencv2/core/base.hpp
+D:\opencv\build\include\opencv2/opencv_modules.hpp
+D:\opencv\build\include\opencv2/core/cvstd.hpp
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.14.26428\include\cctype
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.14.26428\include\string
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.14.26428\include\xstring_insert.h
+D:\opencv\build\include\opencv2/core/ptr.inl.hpp
+D:\opencv\build\include\opencv2/core/neon_utils.hpp
+D:\opencv\build\include\opencv2/core/vsx_utils.hpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\assert.h
+D:\opencv\build\include\opencv2/core/check.hpp
+D:\opencv\build\include\opencv2/core/base.hpp
+D:\opencv\build\include\opencv2/core/traits.hpp
+D:\opencv\build\include\opencv2/core/matx.hpp
+D:\opencv\build\include\opencv2/core/saturate.hpp
+D:\opencv\build\include\opencv2/core/fast_math.hpp
+D:\opencv\build\include\opencv2/core/types.hpp
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.14.26428\include\vector
+D:\opencv\build\include\opencv2/core/mat.hpp
+D:\opencv\build\include\opencv2/core/bufferpool.hpp
+D:\opencv\build\include\opencv2/core/mat.inl.hpp
+D:\opencv\build\include\opencv2/core/persistence.hpp
+D:\opencv\build\include\opencv2/core/operations.hpp
+D:\opencv\build\include\opencv2/core/cvstd.inl.hpp
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.14.26428\include\complex
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.14.26428\include\sstream
+D:\opencv\build\include\opencv2/core/utility.hpp
+D:\opencv\build\include\opencv2/core.hpp
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.14.26428\include\functional
+D:\opencv\build\include\opencv2/core/core_c.h
+D:\opencv\build\include\opencv2/core/types_c.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\assert.h
+D:\opencv\build\include\opencv2/core.hpp
+D:\opencv\build\include\opencv2/core/utility.hpp
+D:\opencv\build\include\opencv2/core/optim.hpp
+D:\opencv\build\include\opencv2/core.hpp
+D:\opencv\build\include\opencv2/core/ovx.hpp
+D:\opencv\build\include\opencv2/calib3d.hpp
+D:\opencv\build\include\opencv2/features2d.hpp
+D:\opencv\build\include\opencv2/opencv_modules.hpp
+D:\opencv\build\include\opencv2/flann/miniflann.hpp
+D:\opencv\build\include\opencv2/flann/defines.h
+d:\opencv\build\include\opencv2\flann\config.h
+D:\opencv\build\include\opencv2/core/affine.hpp
+D:\opencv\build\include\opencv2/calib3d/calib3d_c.h
+D:\opencv\build\include\opencv2/dnn.hpp
+D:\opencv\build\include\opencv2/dnn/dnn.hpp
+D:\opencv\build\include\opencv2/dnn/dict.hpp
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.14.26428\include\map
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.14.26428\include\xtree
+D:\opencv\build\include\opencv2/dnn/dnn.hpp
+D:\opencv\build\include\opencv2/dnn/layer.hpp
+D:\opencv\build\include\opencv2/dnn.hpp
+D:\opencv\build\include\opencv2/dnn/dnn.inl.hpp
+D:\opencv\build\include\opencv2/flann.hpp
+D:\opencv\build\include\opencv2/flann/flann_base.hpp
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.14.26428\include\cassert
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\assert.h
+d:\opencv\build\include\opencv2\flann\general.h
+d:\opencv\build\include\opencv2\flann\matrix.h
+d:\opencv\build\include\opencv2\flann\params.h
+d:\opencv\build\include\opencv2\flann\any.h
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.14.26428\include\iostream
+d:\opencv\build\include\opencv2\flann\saving.h
+d:\opencv\build\include\opencv2\flann\nn_index.h
+d:\opencv\build\include\opencv2\flann\result_set.h
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.14.26428\include\set
+d:\opencv\build\include\opencv2\flann\all_indices.h
+d:\opencv\build\include\opencv2\flann\kdtree_index.h
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.14.26428\include\cassert
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\assert.h
+d:\opencv\build\include\opencv2\flann\dynamic_bitset.h
+d:\opencv\build\include\opencv2\flann\dist.h
+d:\opencv\build\include\opencv2\flann\heap.h
+d:\opencv\build\include\opencv2\flann\allocator.h
+d:\opencv\build\include\opencv2\flann\random.h
+d:\opencv\build\include\opencv2\flann\kdtree_single_index.h
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.14.26428\include\cassert
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\assert.h
+d:\opencv\build\include\opencv2\flann\kmeans_index.h
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.14.26428\include\cassert
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\assert.h
+d:\opencv\build\include\opencv2\flann\logger.h
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.14.26428\include\stdarg.h
+d:\opencv\build\include\opencv2\flann\composite_index.h
+d:\opencv\build\include\opencv2\flann\linear_index.h
+d:\opencv\build\include\opencv2\flann\hierarchical_clustering_index.h
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.14.26428\include\cassert
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\assert.h
+d:\opencv\build\include\opencv2\flann\lsh_index.h
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.14.26428\include\cassert
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\assert.h
+d:\opencv\build\include\opencv2\flann\lsh_table.h
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.14.26428\include\iomanip
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.14.26428\include\xlocmon
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.14.26428\include\xloctime
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.14.26428\include\ctime
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\math.h
+d:\opencv\build\include\opencv2\flann\autotuned_index.h
+d:\opencv\build\include\opencv2\flann\ground_truth.h
+d:\opencv\build\include\opencv2\flann\index_testing.h
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.14.26428\include\cassert
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\assert.h
+d:\opencv\build\include\opencv2\flann\timer.h
+d:\opencv\build\include\opencv2\flann\sampling.h
+D:\opencv\build\include\opencv2/highgui.hpp
+D:\opencv\build\include\opencv2/imgcodecs.hpp
+D:\opencv\build\include\opencv2/videoio.hpp
+D:\opencv\build\include\opencv2/highgui/highgui_c.h
+D:\opencv\build\include\opencv2/imgproc/imgproc_c.h
+D:\opencv\build\include\opencv2/imgproc/types_c.h
+D:\opencv\build\include\opencv2/imgcodecs/imgcodecs_c.h
+D:\opencv\build\include\opencv2/videoio/videoio_c.h
+D:\opencv\build\include\opencv2/imgproc.hpp
+D:\opencv\build\include\opencv2/ml.hpp
+D:\opencv\build\include\opencv2/ml/ml.inl.hpp
+D:\opencv\build\include\opencv2/objdetect.hpp
+D:\opencv\build\include\opencv2/objdetect/detection_based_tracker.hpp
+D:\opencv\build\include\opencv2/objdetect/objdetect_c.h
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.14.26428\include\deque
+D:\opencv\build\include\opencv2/photo.hpp
+D:\opencv\build\include\opencv2/photo/photo_c.h
+D:\opencv\build\include\opencv2/shape.hpp
+D:\opencv\build\include\opencv2/shape/emdL1.hpp
+D:\opencv\build\include\opencv2/shape/shape_transformer.hpp
+D:\opencv\build\include\opencv2/shape/hist_cost.hpp
+D:\opencv\build\include\opencv2/shape/shape_distance.hpp
+D:\opencv\build\include\opencv2/stitching.hpp
+D:\opencv\build\include\opencv2/stitching/warpers.hpp
+D:\opencv\build\include\opencv2/stitching/detail/warpers.hpp
+D:\opencv\build\include\opencv2/core/cuda.hpp
+D:\opencv\build\include\opencv2/core/cuda_types.hpp
+D:\opencv\build\include\opencv2/core/cuda.inl.hpp
+D:\opencv\build\include\opencv2/core/cuda.hpp
+D:\opencv\build\include\opencv2/opencv_modules.hpp
+d:\opencv\build\include\opencv2\stitching\detail\warpers_inl.hpp
+d:\opencv\build\include\opencv2\stitching\detail\warpers.hpp
+D:\opencv\build\include\opencv2/stitching/detail/matchers.hpp
+D:\opencv\build\include\opencv2/opencv_modules.hpp
+D:\opencv\build\include\opencv2/stitching/detail/motion_estimators.hpp
+d:\opencv\build\include\opencv2\stitching\detail\util.hpp
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.14.26428\include\list
+d:\opencv\build\include\opencv2\stitching\detail\util_inl.hpp
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.14.26428\include\queue
+d:\opencv\build\include\opencv2\stitching\detail\util.hpp
+d:\opencv\build\include\opencv2\stitching\detail\camera.hpp
+D:\opencv\build\include\opencv2/stitching/detail/exposure_compensate.hpp
+D:\opencv\build\include\opencv2/stitching/detail/seam_finders.hpp
+D:\opencv\build\include\opencv2/opencv_modules.hpp
+D:\opencv\build\include\opencv2/stitching/detail/blenders.hpp
+D:\opencv\build\include\opencv2/superres.hpp
+D:\opencv\build\include\opencv2/superres/optical_flow.hpp
+D:\opencv\build\include\opencv2/video.hpp
+D:\opencv\build\include\opencv2/video/tracking.hpp
+D:\opencv\build\include\opencv2/video/background_segm.hpp
+D:\opencv\build\include\opencv2/video/tracking_c.h
+D:\opencv\build\include\opencv2/videostab.hpp
+D:\opencv\build\include\opencv2/videostab/stabilizer.hpp
+D:\opencv\build\include\opencv2/videostab/global_motion.hpp
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.14.26428\include\fstream
+D:\opencv\build\include\opencv2/opencv_modules.hpp
+D:\opencv\build\include\opencv2/videostab/optical_flow.hpp
+D:\opencv\build\include\opencv2/opencv_modules.hpp
+D:\opencv\build\include\opencv2/videostab/motion_core.hpp
+D:\opencv\build\include\opencv2/videostab/outlier_rejection.hpp
+D:\opencv\build\include\opencv2/videostab/motion_stabilizing.hpp
+D:\opencv\build\include\opencv2/videostab/frame_source.hpp
+D:\opencv\build\include\opencv2/videostab/log.hpp
+D:\opencv\build\include\opencv2/videostab/inpainting.hpp
+D:\opencv\build\include\opencv2/videostab/fast_marching.hpp
+d:\opencv\build\include\opencv2\videostab\fast_marching_inl.hpp
+D:\opencv\build\include\opencv2/videostab/fast_marching.hpp
+D:\opencv\build\include\opencv2/videostab/deblurring.hpp
+D:\opencv\build\include\opencv2/videostab/wobble_suppression.hpp
+D:\opencv\build\include\opencv2/videostab/ring_buffer.hpp

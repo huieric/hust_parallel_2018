@@ -1,0 +1,16 @@
+﻿  Compiling CUDA source file kernel.cu...
+  
+  H:\Visual Studio 2017\Projects\ParallelLabs\Lab5_CUDA>"I:\NVIDIA\GPU Computing Toolkit\CUDA\v9.2\bin\nvcc.exe" -gencode=arch=compute_30,code=\"sm_30,compute_30\" --use-local-env -ccbin "D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.14.26428\bin\HostX86\x64" -x cu  -I"I:\NVIDIA\GPU Computing Toolkit\CUDA\v9.2\include" -I"I:\NVIDIA\GPU Computing Toolkit\CUDA\v9.2\include"  -G   --keep-dir x64\Debug -maxrregcount=0  --machine 64 --compile -cudart static  -g   -DWIN32 -DWIN64 -D_DEBUG -D_CONSOLE -D_MBCS -Xcompiler "/EHsc /W3 /nologo /Od /FS /Zi /RTC1 /MDd " -o x64\Debug\kernel.cu.obj "H:\Visual Studio 2017\Projects\ParallelLabs\Lab5_CUDA\kernel.cu" 
+D:\opencv\build\include\opencv2/stitching/detail/warpers.hpp(213): warning : overloaded virtual function "cv::detail::PlaneWarper::buildMaps" is only partially overridden in class "cv::detail::AffineWarper"
+D:\opencv\build\include\opencv2/stitching/detail/warpers.hpp(213): warning : overloaded virtual function "cv::detail::PlaneWarper::warp" is only partially overridden in class "cv::detail::AffineWarper"
+D:\opencv\build\include\opencv2/videostab/motion_stabilizing.hpp(106): warning : function "cv::videostab::IMotionStabilizer::stabilize(int, const std::vector<cv::Mat, std::allocator<cv::Mat>> &, std::pair<int, int>, cv::Mat *)" is hidden by "cv::videostab::GaussianMotionFilter::stabilize" -- virtual function override intended?
+H:/Visual Studio 2017/Projects/ParallelLabs/Lab5_CUDA/kernel.cu(25): warning : variable "N" was declared but never referenced
+d:\opencv\build\include\opencv2\flann\lsh_table.h(220): warning : statement is unreachable
+d:\opencv\build\include\opencv2\flann\lsh_table.h(225): warning : statement is unreachable
+d:\opencv\build\include\opencv2\flann\lsh_table.h(234): warning : statement is unreachable
+D:\opencv\build\include\opencv2/stitching/detail/warpers.hpp(213): warning : overloaded virtual function "cv::detail::PlaneWarper::buildMaps" is only partially overridden in class "cv::detail::AffineWarper"
+D:\opencv\build\include\opencv2/stitching/detail/warpers.hpp(213): warning : overloaded virtual function "cv::detail::PlaneWarper::warp" is only partially overridden in class "cv::detail::AffineWarper"
+D:\opencv\build\include\opencv2/videostab/motion_stabilizing.hpp(106): warning : function "cv::videostab::IMotionStabilizer::stabilize(int, const std::vector<cv::Mat, std::allocator<cv::Mat>> &, std::pair<int, int>, cv::Mat *)" is hidden by "cv::videostab::GaussianMotionFilter::stabilize" -- virtual function override intended?
+  kernel.cu
+    正在创建库 H:\Visual Studio 2017\Projects\ParallelLabs\x64\Debug\Lab5_CUDA.lib 和对象 H:\Visual Studio 2017\Projects\ParallelLabs\x64\Debug\Lab5_CUDA.exp
+  Lab5_CUDA.vcxproj -> H:\Visual Studio 2017\Projects\ParallelLabs\x64\Debug\Lab5_CUDA.exe

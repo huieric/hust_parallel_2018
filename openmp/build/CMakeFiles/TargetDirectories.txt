@@ -1,0 +1,3 @@
+/home/huieric/Document/hust_parallel_2018/openmp/build/CMakeFiles/edit_cache.dir
+/home/huieric/Document/hust_parallel_2018/openmp/build/CMakeFiles/rebuild_cache.dir
+/home/huieric/Document/hust_parallel_2018/openmp/build/CMakeFiles/erosion_openmp.dir

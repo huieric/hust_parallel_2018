@@ -1,0 +1,3 @@
+/home/huieric/Document/hust_parallel_2018/pthread/build/CMakeFiles/edit_cache.dir
+/home/huieric/Document/hust_parallel_2018/pthread/build/CMakeFiles/rebuild_cache.dir
+/home/huieric/Document/hust_parallel_2018/pthread/build/CMakeFiles/erosion_pthread.dir
